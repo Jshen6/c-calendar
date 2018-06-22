@@ -1,4 +1,4 @@
-public class calendar520 {
+public class Calendar520 {
     public static void main(String[] args){
         int a=0;
         for(int b=1996;b<=2017;b++){

@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class calendar{
+
+public class Calendar {
     public static void main(String[] args)throws Exception{
         Scanner in=new Scanner(System.in);
         int year,month,day;
